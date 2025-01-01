@@ -1,1 +1,2 @@
 docker pull adolfintel/speedtest
+docker pull adolfintel/speedtest
